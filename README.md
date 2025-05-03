@@ -4,7 +4,7 @@ Learning Nugget is a methodology of learning (and potential platform) for learni
 
 Links
 
-- background: What is Learning Nugget?
+- background: [What is Learning Nugget?](https://github.com/herougo/LearningNugget/blob/main/WhatIsLearningNugget.md)
 - list of all nuggets specific to this repo
-    - normal form: LearningNuggets.md
-    - table form: LearningNuggetsTable.md
+    - normal form: [LearningNuggets.md](https://github.com/herougo/LearningNugget/blob/main/LearningNuggets.md)
+    - table form: [LearningNuggetsTable.md](https://github.com/herougo/LearningNugget/blob/main/LearningNuggetsTable.md)
