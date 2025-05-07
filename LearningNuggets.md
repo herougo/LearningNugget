@@ -18,6 +18,6 @@ These tips include breaking logic into hooks, separating components into 2 compo
 
 This article goes over how to build a simplified version of React (using actual code) using the same function names the actual React code uses. 
 
-I found the constant changes to the code sometimes non-trivial to follow, so to fully understand the final product, I created [this repo](https://github.com/herougo/didact/server) as a fork. This repo splits the final code file into separate files (with extra comments) which can be read in order to truly understand the code.
+I found the constant changes to the code sometimes non-trivial to follow, so to fully understand the final product, I created [this repo](https://github.com/herougo/didact/server) as a fork. This repo splits the final code file into separate files (with extra comments) which can be read in a logical order to truly understand the code.
 
 [\[Original Source\]](https://pomb.us/build-your-own-react/)
