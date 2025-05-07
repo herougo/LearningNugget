@@ -14,7 +14,7 @@ These tips include breaking logic into hooks, separating components into 2 compo
 
 [\[Original Source\]](https://github.com/herougo/SoftwareEngineerKnowledgeRepository/wiki/Code-Review-React-Code-Snippets)
 
-### 3: Build Your Own React - May 7, 2025
+#### 3: Build Your Own React - May 7, 2025
 
 This article goes over how to build a simplified version of React (using actual code) using the same function names the actual React code uses. 
 
